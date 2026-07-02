@@ -1,0 +1,11 @@
+disk_reg/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+outputs/*
+!outputs/.gitkeep
+!outputs/images/
+!outputs/images/.gitkeep
+!outputs/debug/
+!outputs/debug/.gitkeep
